@@ -1,4 +1,7 @@
-## Wallst Telemetry 
+## 🚀🚀🚀Wallst Telemetry🚀🚀🚀
+
+Live comments and real-time data analytics powered by machine learning 
+algorithms fresh from r/wallstreetbets!
 
 ### Demo
 
