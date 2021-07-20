@@ -2,7 +2,7 @@
 
 ### Demo
 
-![Demo video](wallst_telemetry.mp4)
+![Demo video](wallst-telemetry.mp4)
 
 ### Design
 
