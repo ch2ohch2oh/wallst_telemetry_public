@@ -1,2 +1,4 @@
-# wallst_telemetry_public
-Public repo for wallst telemetry
+## Wallst Telemetry 
+
+### Design
+![Application architecture](design.png)
